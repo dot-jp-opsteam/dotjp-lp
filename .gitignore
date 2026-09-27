@@ -1,0 +1,9 @@
+# 元素材(公開しない)
+inbox/
+assets/img/raw/
+
+# 開発用
+node_modules/
+.DS_Store
+Thumbs.db
+dist/
